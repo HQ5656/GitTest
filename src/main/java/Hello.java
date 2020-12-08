@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("3333");
         System.out.println("fen");
         System.out.println("667");
+        System.out.println("688");
     }
 }
