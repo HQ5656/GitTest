@@ -9,5 +9,8 @@ public class Hello {
         System.out.println("6");
         System.out.println("667");
         System.out.println("688");
+        System.out.println("test");
+
+
     }
 }
