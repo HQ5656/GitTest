@@ -8,9 +8,8 @@ public class Hello {
         System.out.println("fen");
         System.out.println("6");
         System.out.println("667");
-        System.out.println("688");
-        System.out.println("test");
-
-
+        System.out.println("678");
+        System.out.println("111");
+        System.out.println("1test");
     }
 }
