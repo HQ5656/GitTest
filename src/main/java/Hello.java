@@ -3,7 +3,6 @@ package main.java;
 public class Hello {
     public static void main(String[] args) {
         System.out.println("hello world");
-        System.out.println("1test");
         System.out.println("111");
         System.out.println("3333");
         System.out.println("fen");
@@ -13,7 +12,8 @@ public class Hello {
         System.out.println("111");
         System.out.println("1test1");
         System.out.println("1test");
-        System.out.println(".");
+        System.out.println("hello world");
+        System.out.println("123.");
         System.out.println("1test2.");
     }
 }
